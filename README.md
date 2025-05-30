@@ -71,19 +71,6 @@ onE/
 - SwiftUI iOS app pulls live balances, trade logs, and prediction signals from `onElink`.
 - React app displays strategy dashboard and portfolio analytics.
 
----
-
-## 📜 License
-
-MIT (or proprietary — your call)
-
----
-
-## ✍️ Author
-
-Built by Nick Conant-Hiley  
-2025
-"""
 
 # Write the README file
 with open("onE/README.md", "w") as f:
