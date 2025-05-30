@@ -1,4 +1,4 @@
-readme_content = """
+
 # 💸 onE
 
 **onE** is an advanced, modular AI-powered trading system designed to predict, trade, and adapt in both the **cryptocurrency** and **securities** markets. Its goal: to make as much money as possible, as fast as possible — intelligently and autonomously.
@@ -71,9 +71,3 @@ onE/
 - SwiftUI iOS app pulls live balances, trade logs, and prediction signals from `onElink`.
 - React app displays strategy dashboard and portfolio analytics.
 
-
-# Write the README file
-with open("onE/README.md", "w") as f:
-    f.write(readme_content.strip())
-
-"README.md created inside the onE project folder."
