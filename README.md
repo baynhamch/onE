@@ -1,5 +1,5 @@
 readme_content = """
-# 💸 onE — The Financial Mastermind
+# 💸 onE
 
 **onE** is an advanced, modular AI-powered trading system designed to predict, trade, and adapt in both the **cryptocurrency** and **securities** markets. Its goal: to make as much money as possible, as fast as possible — intelligently and autonomously.
 
