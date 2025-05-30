@@ -82,7 +82,6 @@ MIT (or proprietary — your call)
 ## ✍️ Author
 
 Built by Nick Conant-Hiley  
-Mentored by GPT-4  
 2025
 """
 
